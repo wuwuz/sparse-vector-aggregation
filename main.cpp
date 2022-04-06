@@ -441,10 +441,6 @@ int main() {
     //th.push_back(std::thread(super_sparse_test, dp_level));
     //th.push_back(std::thread(super_sparse_test, !dp_level));
     //th.push_back(std::thread(neighbor_dist_test));
-    //th.push_back(std::thread(real_test, "rent.txt", dp_level));
-    //th.push_back(std::thread(real_test, "cloth.txt", dp_level));
-    //th.push_back(std::thread(real_test, "rent.txt", !dp_level));
-    //th.push_back(std::thread(real_test, "cloth.txt", !dp_level));
     //th.push_back(std::thread(real_test, "movie100.txt", dp_level));
     //th.push_back(std::thread(real_test, "movie100.txt", !dp_level));
 
