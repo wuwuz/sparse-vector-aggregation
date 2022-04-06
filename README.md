@@ -15,6 +15,8 @@ Implementation
 ---
 See the ``SVME`` class in ``estimator.cpp``. 
 
+Disclaimer: the implementation here is only for demostration and not guaranteed to be rigorously correct. Please do not use this implementation for any serious usage. 
+
 Publication
 ---
 
