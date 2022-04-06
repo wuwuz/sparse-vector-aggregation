@@ -1,0 +1,10 @@
+{
+    "client": 100000,
+    "dim": 4096,
+    "sparsity": 32,
+    "eps": 1.0,
+    "neighbor_dist": -1,
+    "delta": 0.000001,
+    "type": "synthesis",
+    "Comment": "If neighbor_dist = -1, it means user-level LDP -- all k-sparse vectors are neighbors."
+}

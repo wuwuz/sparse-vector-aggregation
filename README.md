@@ -1,1 +1,1 @@
-# sparse-vector-aggregation
+# dp-sparse
